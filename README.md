@@ -19,7 +19,6 @@ Reboot Home Assistant
 > Lag ditt custom lovelace card:
 ```
   - type: custom:avinor-flight-card
-    <<: *card_mod_transparent
     title: Avinor Flydata
     entity: sensor.avinor_flight_data_sensor
 ```
