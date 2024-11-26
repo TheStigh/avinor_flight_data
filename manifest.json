@@ -1,0 +1,10 @@
+{
+    "domain": "avinor_flight_data",
+    "name": "Avinor Flight Data",
+    "version": "1.0.0",
+    "documentation": "https://github.com/TheStigh/avinor_flight_data",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@TheStigh"]
+  }
+  
