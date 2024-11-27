@@ -181,6 +181,7 @@ class AvinorFlightCard extends HTMLElement {
             <option value="MEH">Mehamn (MEH)</option>
             <option value="MJF">Mosjøen (MJF)</option>
             <option value="MOL">Molde (MOL)</option>
+            <option value="MQN">Mo i Rana (MQN)</option>
             <option value="OSY">Namsos (OSY)</option>
             <option value="RET">Røst (RET)</option>
             <option value="RRS">Røros (RRS)</option>
