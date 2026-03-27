@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airport>
+  <flights lastUpdate="2026-03-24T12:30:00Z">
+    <flight uniqueId="1617049968">
+      <flightId>SK4412</flightId>
+      <dom_int>D</dom_int>
+      <schedule_time>2026-03-24T12:40:00Z</schedule_time>
+      <arr_dep>A</arr_dep>
+      <airport>OSL</airport>
+      <airline>SK</airline>
+      <status code="E" time="2026-03-24T12:55:00Z" />
+    </flight>
+    <flight uniqueID="1617051111">
+      <flight_id>DY123</flight_id>
+      <dom_int>I</dom_int>
+      <schedule_time>2026-03-24T13:10:00Z</schedule_time>
+      <arr_dep>D</arr_dep>
+      <airport>CPH</airport>
+      <airline>DY</airline>
+      <status code="D" time="2026-03-24T13:14:00Z" />
+    </flight>
+  </flights>
+</airport>

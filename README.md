@@ -22,3 +22,17 @@ Reboot Home Assistant
     title: Avinor Flydata
     entity: sensor.avinor_flight_data_sensor
 ```
+
+## Parser smoke test
+
+Run the local parser smoke test with the included XML fixture:
+
+```powershell
+& "C:\Users\StighAarstein\AppData\Local\Programs\Python\Python312\python.exe" scripts/smoke_validate_parser.py --print-first
+```
+
+Optional filter check:
+
+```powershell
+& "C:\Users\StighAarstein\AppData\Local\Programs\Python\Python312\python.exe" scripts/smoke_validate_parser.py --search dy
+```
